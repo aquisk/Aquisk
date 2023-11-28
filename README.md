@@ -1,0 +1,43 @@
+# <img src="Aquisk.png" height="5%" width="5%" /> Aquisk (AQ Project)
+
+(c) Copyright 2023 Aquisk (AQ Project) Authors  
+Licensed from Aquisk License.  
+
+## Introduction
+Aquisk is an AQ application runner designed to build a lighter, faster and easier-to-use way of mini-applications. Maybe a great piece of work.  
+
+## Quick Start
+Aquisk is under development and there is no quick start yet.  
+
+## Project structure
+- Aquisk
+    - /
+    - /aq_debug
+    - /aq_doc
+    - /aq_net
+    - ...
+
+You can find relevant content in aq_doc.
+
+## License
+Aquisk License  
+Version 1, November 24, 2023  
+(c) Copyright 2023 Aquisk (AQ Project) Authors  
+[License conditions and objects]  
+     Any person or organization bound by the latest version of the Aquisk License.  
+[Licensed content]  
+     All rights in copies of Aquisk (AQ Project) are hereby granted to Licensees. (from Aquisk (AQ Project))  
+[Terms and conditions]  
+     1. Only the latest version of the Aquisk license has licensing effect. If the Aquisk license has been updated, you need to obtain a license according to the latest version of the Aquisk license.  
+     2. All content based on or containing parts of Aquisk (AQ Project) is a copy of Aquisk (AQ Project). The creator of Aquisk (AQ Project) is the first author. The main part of the Aquisk license is [License Conditions and Objects] and [Terms and Conditions] and license-related information such as license name, version number, date, copyright statement, etc.  
+     3. Copies of Aquisk (AQ Project) should indicate that they are based on or contain parts of Aquisk (AQ Project).  
+     4. The copy of Aquisk (AQ Project) should contain and adopt the latest version of the Aquisk License. The owner of the copy of Aquisk (AQ Project) is only allowed to change the [Permitted Content], [Additional Terms] and [Other Content] of the Aquisk License. Basic information such as the name of the copy must be marked on the changes. However, if there is a conflict, the Aquisk license shall prevail, otherwise the license will be discontinued. Derivatives of copies of Aquisk (AQ Project) shall also be subject to this provision.  
+     5. The first author owns all rights to Aquisk (AQ Project), and participating in the creation of Aquisk (AQ Project) is deemed to have agreed to grant the rights to the work.  
+     6. The main part of the Aquisk license can only be modified by the first author of Aquisk (AQ project), but there should be a 15-day publicity period. After the publicity period ends, the main part of the original license will be updated to the new license content. If the copy of Aquisk (AQ Project) requires the derivative work to contain and adopt the latest [Additional Terms], this clause will apply.  
+     7. The first author of Aquisk (AQ Project) may grant special licenses to individuals and organizations individually.  
+     8. If an individual or organization fails to comply with the latest version of the Aquisk License (for any reason), then licensing of all copies of Aquisk (AQ Project) for that individual or organization will be discontinued.  
+     9. Aquisk (AQ Project) does not guarantee or be responsible for any content, so please decide at your own discretion whether to use Aquisk (AQ Project) and its copies. Aquisk (AQ Project) will not compensate you for your any losses.  
+[Additional Terms]  
+     1. The additional terms of Aquisk (AQ Project) should be inherited by copies of Aquisk (AQ Project) and their derivative works. Only the main part and additional terms of the latest version of the Aquisk License will be valid if they comply with the license conditions. If the Aquisk License The additional terms have been updated, you need to obtain a license according to the main part and additional terms of the latest version of the Aquisk license. (from Aquisk (AQ Project))  
+[Other contents]  
+     Work title: Aquisk (AQ project)  
