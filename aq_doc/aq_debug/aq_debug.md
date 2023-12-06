@@ -9,19 +9,23 @@ Use of this source code is governed by a Aquisk License that can be found in the
 - AqDebug
     - AqDebugReport
         - parameter
-            - std::string Code
-            - std::string Message
+            - AqDebugData Data
+                - std::string Code
+                - std::string Message
         - function
-            - AqErrorReport();
-            - AqWarningReport();
-            - AqInfoReport();
+            - ErrorReport();
+            - WarningReport();
+            - InfoReport();
 
 Example:  
 ```c++
-AqDebug::AqDebugReport custom_name;  
-custom_name.Code = "Debug Code";  
-custom_name.Message = "Debug Message";  
-custom_name.AqErrorReport(); // Select different functions according to debugging level.  
+AqDebug::AqDebugReport custom_name;
+custom_name.Data.Code = "Debug Code";
+custom_name.Data.Message = "Debug Message";
+// Select one of the following calling interfaces according to the serious situation: 
+    custom_name.ErrorReport(); // Report errors using this interface.
+    custom_name.WarningReport(); // Report warnings using this interface.
+    custom_name.InfoReport(); // Report information using this interface.
 ```
 
 ### Basic Statement and Definitions:
