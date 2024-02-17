@@ -2,5 +2,4 @@
 
 (c) Copyright 2023 Aquisk (AQ Project) Authors  
 
-## Introduction
-Waiting for development. Maybe a great piece of work.
+# Moved to new project: [AQ](https://github.com/aq-org/aq)
